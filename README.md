@@ -1,7 +1,7 @@
 # JARVIS AI Assistant
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Govind%20&__Tejas-red)
 
-![Jarvis Logo](Graphics/Jarvis.gif)
+
 
 JARVIS is an advanced AI-powered virtual assistant that combines speech recognition, natural language processing, and automation to simplify everyday tasks. This project is built using Python and leverages various APIs and libraries to create a robust and interactive experience.
 
@@ -118,8 +118,7 @@ JARVIS
 
 ### Home Screen
 
-
-
+![Jarvis Logo](Graphics/Jarvis.gif)
 ### Chat Interface
  ![Screenshot 2025-01-24 000342](https://github.com/user-attachments/assets/c1da73a6-fc87-4b59-884d-ddf5ef8ef54f)
 
