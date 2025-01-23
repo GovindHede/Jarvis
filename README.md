@@ -120,7 +120,8 @@ JARVIS
 
 
 ### Chat Interface
-![Chat Interface](Graphics/Chats.png)
+![Chat Interface](![Screenshot 2025-01-24 000342](https://github.com/user-attachments/assets/c1da73a6-fc87-4b59-884d-ddf5ef8ef54f)
+)
 
 
 
