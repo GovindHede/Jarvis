@@ -122,12 +122,7 @@ JARVIS
 ### Chat Interface
 ![Chat Interface](Graphics/Chats.png)
 
----
 
-## Developed By
-
-- **Govind**  
-- **Tejas**
 
 ---
 
@@ -146,8 +141,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - [Python](https://www.python.org/)
-- [Django](https://www.djangoproject.com/)
-- [OpenAI](https://openai.com/) for APIs
+- [Cohere](https://cohere.com/)
+- [HuggingFace](https://huggingface.co/)
+- [Groq](https://gorq.dev//) for APIs
 
 ---
 
