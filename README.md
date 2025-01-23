@@ -1,4 +1,5 @@
 # JARVIS AI Assistant
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Govind%20&__Tejas-red)
 
 ![Jarvis Logo](Graphics/Jarvis.gif)
 
@@ -69,7 +70,7 @@ JARVIS
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.10.10
 - pip (Python package manager)
 - Virtual environment setup (optional but recommended)
 
@@ -116,7 +117,7 @@ JARVIS
 ## Screenshots
 
 ### Home Screen
-![Home Screen](Graphics/Home.png)
+
 
 ### Chat Interface
 ![Chat Interface](Graphics/Chats.png)
