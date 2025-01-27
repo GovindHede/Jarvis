@@ -1,5 +1,5 @@
 # JARVIS AI Assistant
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Govind%20&__Tejas-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Govind%20Hede-red)
 
 
 
